@@ -125,5 +125,5 @@ The jobs table is named `job_listings` because Laravel already uses `jobs` for q
 
 ## Author
 **Your Name**
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-LinkedIn: add your link here
+ 
+LinkedIn: https://www.linkedin.com/in/atul-kumar-jain-9b342214b/
