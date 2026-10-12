@@ -41,15 +41,25 @@ A full-stack job portal built with **Laravel** and **MySQL**. Candidates can sea
 | User | Browse, apply, track applications |
 
 ## Screenshots
-Add your screenshots to a `screenshots/` folder and link them here.
 
-| Jobs list | Job detail |
-|-----------|------------|
-| ![Jobs](screenshots/jobs.png) | ![Job detail](screenshots/job-detail.png) |
+### Public
+| Jobs list | Job details |
+|-----------|-------------|
+| ![Jobs](screenshots/jobs.png) | ![Job details](screenshots/jobs-details.png) |
 
-| Admin dashboard | My applications |
-|-----------------|-----------------|
-| ![Admin](screenshots/admin.png) | ![My applications](screenshots/my-applications.png) |
+### Admin
+| Dashboard | Add job |
+|-----------|---------|
+| ![Admin dashboard](screenshots/admin-dashboard.png) | ![Admin add job](screenshots/admin-add-jobs.png) |
+
+| Companies listing |
+|-------------------|
+| ![Companies](screenshots/admin-companies-listing.png) |
+
+### Company
+| Dashboard | Add job |
+|-----------|---------|
+| ![Company dashboard](screenshots/company-dashboard.png) | ![Company add job](screenshots/company-add-jobs.png) |
 
 ## Installation
 
